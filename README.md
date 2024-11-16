@@ -1,4 +1,4 @@
-<h2 align="left">Oi, sou Werik Rafael, formado em ADS pelo IESB</h2>
+<h2 align="left">Oi 👋! Meu nome é Werik Rafael... formado em ADS pelo IESB</h2>
 
 ###
 
